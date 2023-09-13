@@ -1,6 +1,6 @@
 
 # -----------------------------------------------DETALLE TAREA----------------------------------------------------------
-# Dada una lista de contactos, ubicada en el fichero database.py, se pide: comprobar a través del email(email__iexact)
+# Dada una lista de contactos, ubicada en el fichero database.json, se pide: comprobar a través del email(email__iexact)
 # si el contacto existe en el HDH, si existe, actualizarlo, si no existe, crearlo. Para ello, se debe utilizar la
 # API del HDH.
 
