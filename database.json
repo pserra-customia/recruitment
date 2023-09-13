@@ -1,0 +1,43 @@
+{
+  "contactos" : [
+    {
+      "business_name": "Customia",
+      "work_place": "Polígono son Castello",
+      "business_address": "Gremi Fusters, 33",
+      "language": "es",
+      "country": "ES",
+      "name": "Pau",
+      "surname": "Serra",
+      "email": "recruitment2@customia.com",
+      "phone1": "+34653563623",
+      "gender": "hombre",
+      "birthday": "21/11/1990"
+    },
+    {
+      "business_name": "Fideltour",
+      "work_place": "Polígono son Fusteret",
+      "business_address": "Gremi Boneters, 10",
+      "language": "es",
+      "country": "ES",
+      "name": "Elvis",
+      "surname": "Smith",
+      "email": "recruitment6@customia.com",
+      "phone1": "+44654563623",
+      "gender": "hombre",
+      "birthday": "1989-11-10"
+    },
+    {
+      "business_name": "Custom Solutions",
+      "work_place": "Polígono de Marratxi",
+      "business_address": "Sa Torre, 10",
+      "language": "es",
+      "country": "ES",
+      "name": "Jennifer",
+      "surname": "Sanchez",
+      "email": "recruitment7@customia.com",
+      "phone1": "+42653563223",
+      "gender": "mujer",
+      "birthday": "12/05/1994"
+    }
+  ]
+}
