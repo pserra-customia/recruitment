@@ -2,7 +2,7 @@
 Este proyecto es una prueba de nivel de Python de la empresa Customia-Fideltour. Se prentende testear la habilidad con las peticiones básicas a una API y con el tratamiento de datos.
 
 # Explicación tarea
-Dada una lista de contactos, ubicada en el fichero db.py, se pide: comprobar a través del email(email__iexact)
+Dada una lista de contactos, ubicada en el fichero database.json, se pide: comprobar a través del email(email__iexact)
 si el contacto existe en el HotelDataHub, si existe, actualizarlo, si no existe, crearlo. Para ello, se debe utilizar la
 API del HotelDataHub.
 
