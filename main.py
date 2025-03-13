@@ -18,7 +18,7 @@ BASE_URL = 'https://app.hoteldatahub.io/api/v1/'
 
 
 if __name__ == '__main__':
-    pass
+    print('Hello World')
 
 
 

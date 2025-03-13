@@ -4,14 +4,14 @@
       "business_name": "Customia",
       "work_place": "Polígono son Castello",
       "business_address": "Gremi Fusters, 33",
-      "language": "es",
-      "country": "ES",
-      "name": "Pau",
-      "surname": "Serra",
-      "email": "recruitment2@customia.com",
-      "phone1": "+34653563623",
+      "language": "en",
+      "country": "DE",
+      "name": "Pepe",
+      "surname": "Joya",
+      "email": "recruitment1@customia.com",
+      "phone1": "+3466666666",
       "gender": "hombre",
-      "birthday": "21/11/1990"
+      "birthday": "21/11/1980"
     },
     {
       "business_name": "Fideltour",
@@ -34,7 +34,7 @@
       "country": "ES",
       "name": "Jennifer",
       "surname": "Sanchez",
-      "email": "recruitment7@customia.com",
+      "email": "recruitment10@customia.com",
       "phone1": "+42653563223",
       "gender": "mujer",
       "birthday": "12/05/1994"
